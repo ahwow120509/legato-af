@@ -198,6 +198,10 @@ To uninstall Legato from your development PC:
   - Delete the directory you unzipped Legato under
   - Revert any changes you may have made to your ```.bashrc```, etc. to set up ```xxxxxx_TOOLCHAIN_DIR```
     environment variables.
+### Fortune test
+Hi~This Fortune test code.
+
+
 
 * * *
 _Copyright (C) Sierra Wireless Inc. _
